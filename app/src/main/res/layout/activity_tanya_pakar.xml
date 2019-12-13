@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".TanyaPakar">
+
+<!--LAYOUT TANYA PAKAR-->
+    <TextView
+        android:id="@+id/text_infochat"
+        android:background="@color/bg_tanamkuy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:textAlignment="center"
+        android:fontFamily="monospace"
+        android:text="@string/text_infochat"
+        android:textSize="15sp"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:id="@+id/imageView_pakar"
+        android:background="@color/bg_tanamkuy"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/ic_pakar" />
+
+    <TextView
+        android:id="@+id/txt_namapakar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView_pakar"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:fontFamily="serif"
+        android:text="Dr.Ir. Tani Macdonald, MS"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txt_keahlian"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_namapakar"
+        android:layout_gravity="center"
+        android:layout_marginTop="2dp"
+        android:fontFamily="serif"
+        android:text="Pakar Budidaya tanaman sayuran"
+        android:textSize="10sp"
+         />
+
+<!--FORM KIRIM PESAN-->
+    <EditText
+        android:id="@+id/editText_nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@+id/textView4"
+        android:inputType="text"
+        android:hint="@string/namapengirim"/>
+<!--
+    <EditText
+        android:id="@+id/editText_kota"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@+id/editText_nama"
+        android:inputType="text"
+        android:hint="@string/namakota"/>
+
+    <EditText
+        android:id="@+id/editText_provinsi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@+id/editText_kota"
+        android:inputType="text"
+        android:hint="@string/namaprovinsi"/>
+-->
+    <EditText
+        android:id="@+id/editText_pesan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:minHeight="120dp"
+        android:layout_below="@+id/editText_provinsi"
+        android:inputType="text"
+        android:hint="@string/pesantanya"/>
+
+    <Button
+        android:id="@+id/btn_sendpesanpakar"
+        android:background="@color/bg_tanamkuy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"
+        android:onClick="kirimPesan"
+        android:text="@string/kirim"
+        android:layout_below="@+id/editText_pesan"/>
+
+</LinearLayout>

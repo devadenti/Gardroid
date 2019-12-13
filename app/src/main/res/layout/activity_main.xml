@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:background="@color/bg_tanamkuy"
+        tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/pic1" />
+
+
+    <TextView
+        android:id="@+id/txt_sibunaga"
+        android:layout_width="wrap_content"
+        android:layout_height="38dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="1dp"
+        android:fontFamily="@font/berkshire_swash"
+        android:text="Gardroid"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+<!--
+
+    <Button
+        android:id="@+id/btn_buah_naga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:padding="26dp"
+        android:text="Budidaya" />
+-->
+
+    <Button
+        android:id="@+id/btn_budidaya_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:padding="26dp"
+        android:text="Budidaya Sayuran" />
+
+    <Button
+    android:id="@+id/btn_cara_tanam"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:layout_marginLeft="50dp"
+    android:layout_marginRight="50dp"
+    android:padding="26dp"
+    android:text="Tanya Pakar" />
+
+    <Button
+        android:id="@+id/btn_info_cuaca"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:padding="26dp"
+        android:text="Info Cuaca" />
+
+    <Button
+        android:id="@+id/btn_farming_notes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:padding="26dp"
+        android:text="Farming Notes" />
+
+
+
+    <Button
+        android:id="@+id/btn_tentang_kami"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="100dp"
+        android:padding="26dp"
+        android:text="Tentang" />
+
+
+
+
+
+</LinearLayout>

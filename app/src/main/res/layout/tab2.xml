@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textStep1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="sans-serif-black"
+        android:textSize="20sp"
+        android:textColor="#36622b"
+        android:text="BUDIDAYA TOMAT" />
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_below="@id/textStep1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:id="@+id/imageView2"
+                android:src="@drawable/pic_tomat"
+                android:scaleType="fitXY"
+                android:contentDescription="@string/todo" />
+
+            <TextView
+                android:id="@+id/kontenStep2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:fontFamily="serif"
+                android:text="@string/konten_tomat"
+
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+
+        </LinearLayout><![CDATA[]]>
+    </ScrollView>
+
+
+</RelativeLayout>

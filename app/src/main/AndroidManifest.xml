@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gardroid">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.gardroid.BudidayaSayuran"></activity>
+        <activity
+            android:name="com.example.gardroid.UpdateCatatan"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_updatecatatan"></activity>
+        <activity
+            android:name="com.example.gardroid.LihatCatatan"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_lihatcatatan" />
+        <activity
+            android:name="com.example.gardroid.BuatCatatan"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_buatcatatan" />
+        <activity
+            android:name="com.example.gardroid.FarmingNotesActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_farming_notes" />
+        <activity android:name="com.example.gardroid.DataHelper" />
+        <activity
+            android:name="com.example.gardroid.Step4Activity"
+            android:label="@string/title_activity_step4" />
+        <activity
+            android:name="com.example.gardroid.Step3Activity"
+            android:label="@string/title_activity_step3" />
+        <activity
+            android:name="com.example.gardroid.Step2Activity"
+            android:label="@string/title_activity_step2" />
+        <activity
+            android:name="com.example.gardroid.Step1Activity"
+            android:label="@string/title_activity_step1" />
+
+        <activity android:name="com.example.gardroid.ManfaatNagaActivity" />
+
+        <activity
+            android:name="com.example.gardroid.TentangKamiActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_tentang" />
+        <activity
+            android:name="com.example.gardroid.InfoCuacaActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_info_cuaca" />
+        <activity
+            android:name="com.example.gardroid.TanyaPakar"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_tanya_pakar" />
+
+        <activity android:name="com.example.gardroid.MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".NumbersActivity"
+            android:label="@string/category_numbers"
+            android:parentActivityName="com.example.gardroid.MainActivity">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.gardroid.MainActivity" />
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

@@ -1,0 +1,324 @@
+<resources>
+
+    <string name="app_name">Gardroid</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Daftar Penyakit Padi</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+
+
+    <!--TEXT DESKRIPSI STEP CARA MENANAM-->
+
+
+    <string name="category_bnaga">Buah Naga</string>
+    <string name="category_bnaga1">Buah Naga</string>
+    <string name="category_ctanam">Serba-Serbi Buah Naga</string>
+    <string name="category_helpbantu">Bantuan</string>
+    <string name="category_tkami">Tentang</string>
+    <string name="dragon">Tentang Buah Naga</string>
+
+    <!--Text Deskripsi Tentang Buah Naga-->
+    <string name="description_naga">Pertama, kenalilah dulu apa buah naga itu. Ibarat merawat persahabatan, jika tidak mengenali maka merawatnya pun susah. Buah Naga telah lama dikenal oleh rakyat Tionghoa kuno sebagai buah yang membawa berkah. karena biasanya buah naga diletakkan diantara patung naga di altar. Oleh karena itu orang Vietnam menyebut buah naga atau dalam bahasa Vietnam disebut dengan nama Thang Loy di Thailand diberi nama Keaw Mang Kheon, dalam istilah Inggris diberi nama DRAGON FRUIT clan di Indonesia dikenal dengan nama BUAH NAGA Sebenarnya tanaman ini bukan tanaman asil daratan Asia, tetapi merupakan tanaman ask Meksiko clan Amerika Selatan bagian utara ( Colombia ).  Pada awalnya buah naga ini dibawa kekawasan Indocina ( Vietnam ) oleh seorang Perancis sekitar tahun 1870. dari Guyama Amerika Selatan sebagai hiasan sebab sosoknya yang unik dan bunganya yang cantik dan berwarna putih. Baru sekitar tahun 1980 setelah dibawa ke Okinawa Jepang tanaman ini mendunia karena sangat menguntungkan. Pada tahun 1977 buah ini dibawa ke Indonesia clan berhasil disemaikan kemudian dibudidayakan. Buah naga kaya akan vitamin dan mineral dengan kandungan serat cukup banyak sehingga cocok untuk diet.
+    </string>
+    <string name="sibunaga_serba">Serba-Serbi Buah Naga (Sibunaga)</string>
+    <string name="tanamkuy_about">Gardroid</string>
+    <string name="deskripsi_tentang">Gardroid adalah aplikasi yang dapat membantu untuk mengetahui informasi mengenai budidaya tanaman sayuran. Aplikasi ini dilengkapi dengan fitur tanya jawab petani dengan pakar tanaman sayuran, info cuaca, dan farming notes.</string>
+    <string name="datadiri">(Ike Devanti - 09031281722039)</string>
+    <string name="todo">TODO</string>
+    <string name="subject">Subject</string>
+    <string name="pesankritik">Masukan Pesan disini...</string>
+    <string name="kirim">kirim</string>
+    <string name="todo2">TODO</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="versi_1_0">Versi 1.0</string>
+
+    <!--TITLE ACTIVITY-->
+    <string name="title_activity_buatcatatan">Form Catatan Baru</string>
+    <string name="title_activity_lihatcatatan">Lihat Catatan</string>
+    <string name="title_activity_updatecatatan">Update Catatan</string>
+
+    <string name="title_activity_buah_naga">Budidaya</string>
+    <string name="title_activity_cara_tanam">Tanya Pakar</string>
+    <string name="title_activity_step">Info Budidaya</string>
+    <string name="title_activity_info_cuaca">Info Cuaca</string>
+
+    <string name="title_activity_tanya_pakar">Tanya Pakar</string>
+
+
+    <string name="title_activity_scrolling">Bantuan</string>
+    <string name="title_activity_tentang">Tentang</string>
+
+
+    <string name="title_activity_step1">Cabe Merah</string>
+    <string name="title_activity_step2">Tomat</string>
+    <string name="title_activity_step3">Daun Bawang</string>
+    <string name="title_activity_step4">Kubis</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="bantuan_buah_naga">Pada menu "Serba-Serbi" Pengguna dapat mengetahui informasi
+    asal-usul buah naga, jenis-jenis buah naga, dan manfaat buah naga.
+    buah naga.\n</string>
+    <string name="bantuan_cara_tanam">Pada menu ‘CARA TANAM’ Pengguna dapat mengetahui informasi
+        cara menanam atau budidaya buah naga. </string>
+    <string name="bantuan_text">
+        "Pada menu ‘BANTUAN’ Pengguna dapat mengetahui cara Penggunaan dan juga fungsi "
+        "dari masing-masing menu pada aplikasi Sibunaga.\n"
+    </string>
+    <string name="bantuan_tentang">Pada menu ‘TENTANG’ Pengguna dapat melihat identitas aplikasi
+        BuNaga dan pengguna dapat langsung melakukan aksi untuk mengirim kritik dan saran melalui
+        tombol yang tersedia, yaitu: email ke pengembang dan melalui media sosial pengembang.
+    </string>
+
+    <!--FORM CHAT-->
+    <string name="text_infochat">Hi! Pak Tani siap menjawab.</string>
+    <string name="namapengirim">masukan (Nama + Kota )</string>
+    <string name="namakota">masukan Kota</string>
+    <string name="namaprovinsi">masukan Provinsi</string>
+    <string name="pesantanya">masukan Pesan</string>
+
+    <!--UNTUK PAGE CARA MENANAM-->
+    <string name="category_step1">1.	Menyiapkan Bibit Buah Naga</string>
+    <string name="category_step2">2.	Persiapan Tanam Buah Naga</string>
+    <string name="category_step3">3.	Cara Tanam Bibit Buah Naga</string>
+    <string name="category_step4">4.	Pemeliharaan Buah Naga</string>
+    <string name="category_step5">5.	Pemanenan Buah Naga</string>
+
+    <!--TEXT DESKRIPSI STEP CARA MENANAM-->
+    <string name="description_step1">
+        Menggunakan benih atau bibit buah naga yang berkualitas merupakan salah satu kunci agar memperoleh hasil yang maksimal saat pemanenan buah naga.\n\n
+Untuk menanam tanaman buah naga bisa dengan cara generatif dan vegetatif, secara generatif berarti menanam buah naga menggunakan biji atau benih buah naga dan secara vegetatif menggunakan bibit atau dari batang buah naga yang sudah pernah berbuah.\n\n
+Sebenarnya menanam buah naga lebih mudah secara vegetatif, itu berarti menggunakan bibit buah naga.\n\n
+Karena apabila menggunakan biji benih atau secara generatif  penanaman memerlukan tempat penangkaran khusus, selain itu penanaman menggunakan bibit hasil buahnya akan sama dengan indukan, maka pilihlah bibit yang unggul.\n\n
+Jika menanam pertama kali lebih baik bibitnya anda beli saja.\n\n
+
+Ciri – ciri bibit buah naga yang bagus : \n
+•	Mempunyai tunal paling sedikit 4\n
+•	Umur bibit sudah lebih dari 2 bulan\n
+•	Tinggi bibit minimal 50cm merupakan tunas baru\n
+•	Batang berwarna hijau dan sehat, tidak ada penyakit\n
+•	Umur indukan sudah berbuah minimal 3 kali\n
+•	Usahakan memastikan hasil dari indukan nya\n
+Jika anda ingin membuat sendiri bibit buah naga maka anda bisa menyiapkan batang, media tanam dan peralatan nya.\n\n
+
+Cara membuat bibit buah naga :\n
+1.	Memilih Calon Bibit tanaman Buah Naga\n
+Batang bibit di ambil dari indukan tanaman yang sudah pernah berbuah secara produktif, carilah batang yang diameter sekitar 8 cm dan tingginya 70 cm warnanya hijau kelabu serta tampak sehat dan keras dan tua. Usahakan tidak mengambil dari induk kan yang ada penyakitnya.\n\n
+2.	Mengambil calon Bibit Dari Indukan\n
+Memotong batang tanaman yang sudah dipilih dengan panjang 80 – 120 cm. Sisakan 20 cm dari batang indukan supaya tetap bertumbuh, yang 80 cm di jadikan calon bibit tanaman. Usahakan setiap batang memiliki minimal 4 tunas yang sudah tumbuh.\n\n
+3.	Menyiapkan Batang Calon Bibit Tanaman\n
+Memotong lagi batang – batang yang sudah di ambil dari indukan dengan panjang 20 – 30 cm, untuk potongan atas tampak rata dan potongan bawah meruncing atau lancip untuk di tanam di media tanam.
+4.	Memberi Fungisida\n
+Pemberian fungisida ini bertujuan agar tanaman terhindar dari penyakit, caranya celupkan bagian bawah batang tanaman.\n\n
+5.	Memberi Perangsang Akar\n
+Bagian pangkal bawah batang tanaman di olesi perangsang akar, lalu tanam di bedengan atau polybag yang sudah berisi media tanam dengan kedalaman sekitar 5 cm.
+Media tanam terbuat dari campuran kompos, tanah, dan sekam padi dengan perbandingan 2: 1 : ½.\n\n
+6.	Menaungi Bibit Tanaman\n
+Setelah tertanam beri perlindungan steak tanaman berupa naungan dari sinar matahari langsung.\n\n
+7.	Menyiram Steak Tanaman\n
+Tanaman steak batang perlu di siram 2 kali sehari pada pagi dan sore hari secara rutin.\n\n
+8.	Memberi Cahaya Matahari\n
+Setelah batang steak di rawat selama 3 minggu, tunas pertama sudah tumbuh lalu buka penutup atau naungan tanaman agar tunas pertama terkena cahaya matahari sepenuhnya.\n\n
+Itulah cara membuat bibit tanaman buah naga dari steak batang, cukup mudah kan. Selanjutnya ke tahap penanaman.\n\n
+
+    </string>
+
+
+    <!--KONTEN CABE-->
+
+    <string name="konten_cabe">
+        <b>PENDAHULUAN</b>\n
+Cabai merah  (Capsicum annuum) termasuk famili Solanaceae dan merupakan salah satu komoditas sayuran yang memiliki banyak manfaat, bernilai ekonomi tinggi dan mempunyai prospek pasar yang menarik. Buah cabai selain dapat dikonsumsi segar untuk campuran bumbu masak juga dapat diawetkan, misalnya dalam bentuk acar, saus, tepung cabai dan buah kering. \n\n
+
+<b>PERSYARATAN TUMBUH</b>\n
+Cabai merah cocok dibudidayakan di dataran rendah maupun dataran tinggi, pada lahan sawah atau tegalan dengan ketinggian 0–1000 m dpl. Tanah yang baik untuk pertanaman cabai adalah yang berstruktur remah atau gembur, subur, kaya akan bahan organik, pH tanah antara 6–7. Kandungan air tanah juga perlu diperhatikan. Hal tersebut berhubungan dengan tempat tumbuh tanaman cabai (sawah atau tegalan). Tanaman cabai yang dibudidayakan di sawah sebaiknya ditanam pada akhir musim hujan, sedangkan di tegalan ditanam pada musim hujan. \n\n
+
+<b>BUDIDAYA TANAMAN</b>\n
+<b>Varietas yang dianjurkan</b>\n
+Varietas yang dapat digunakan untuk budidaya cabai merah antara lain ialah Lembang–1,  Tanjung–2, Hot Chilli, Kencana. Kebutuhan benih sebesar 250-350 g/ha.
+
+<b>Persemaian</b>\n
+Sebelum disemai, benih direndam dahulu dalam air hangat (50°C) atau larutan (1 cc/l) selama 12 jam. Benih disebar secara merata pada bedengan persemaian dengan media berupa campuran tanah dan pupuk kandang/kompos (1:1), kemudian ditutup dengan daun pisang selama 2-3 hari.  Bedengan persemaian diberi naungan/atap dari kasa/plastik transparan kemudian persemaian ditutup dengan untuk menghindari serangan OPT. Setelah berumur 7-8 hari, bibit dipindahkan ke dalam bumbungan daun pisang/pot plastik dengan media yang sama (tanah dan pupuk kandang steril).  Penyiraman dilakukan setiap hari.  Bibit siap ditanam di lapangan setelah berumur 4-5 minggu.\n\n
+
+<b>Pengolahan Lahan </b>\n
+<b>Lahan kering/tegalan </b>\n
+Lahan dicangkul sedalam 30-40 cm sampai gembur kemudian dibuat bedengan-bedengan dengan lebar 1-1,2 m, tinggi 30 cm, dan jarak antar bedengan 30 cm.  Lubang tanam dibuat dengan jarak tanam (50-60 cm),  sehingga dalam tiap bedengan terdapat 2 baris tanaman.
+\n\n
+<b>Lahan sawah </b>\n
+Tanah dicangkul sampai gembur kemudian dibuat bedengan-bedengan dengan lebar 1,5 m dan antara bedengan dibuat parit sedalam 50 cm dan lebar 50 cm.  Dibuat lubang tanam dengan jarak tanam 50 cm x 60 cm.  Bila pH tanah kurang dari 5,5 dilakukan pengapuran menggunakan Kaptan/Dolomit dengan dosis 1,5 ton/ha pada 3-4 minggu sebelum tanam (bersamaan dengan pengolahan tanah dengan cara disebar di permukaan tanah dan diaduk rata).\n\n
+
+<b>Pemupukan</b>\n
+<b>Cabai monokultur di lahan kering</b>\n
+Pupuk dasar yang diberikan berupa pupuk kandang kuda atau sapi sebanyak 20–40 ton/ha dan pupuk buatan TSP 200–225 kg/ha diberikan sebelum tanam. \n
+Pupuk susulan berupa Urea 100–150 kg/ha, ZA 300–400 kg/ha, dan KCl 150–200 kg/ha diberikan 3 kali pada umur 3, 6 dan 9 minggu setelah tanam.  \n\n
+
+<b>Cabai tumpang gilir dengan bawang merah</b>\n
+Bawang merah: pupuk kandang kuda atau ayam/domba 10–20 ton/ha dan TSP 150–200 kg/ha diberikan 7 hari sebelum tanam, kemudian Urea 150–200 kg/ha, ZK 400–500 kg/ha dan KCl 150–200 kg/ha diberikan pada umur 7 dan 25 hari setelah tanam masing-masing ½ dosis. Cabai merah: Pupuk dasar diberikan 7 hari sebelum tanam terdiri atas : pupuk kandang 10-15 ton/ha, Urea 261 kg/ha, SP 36 222 kg/ha dan KCl 198 kg/ha. Pupuk susulan diberikan pada umur 20,35 dan 50 hari setelah tanam yaitu masing-masing 240 kg Urea /ha.\n\n
+
+<b>Cabai tumpangsari dengan kubis atau tomat </b>\n
+Pupuk kandang  kuda, ayam/domba 30 – 40 ton/ha dan NPK 15:15:15 sebanyak  700 kg/ha diberikan seminggu sebelum tanam dengan cara disebar dan diaduk secara rata dengan tanah.  Pupuk susulan diberikan dalam bentuk pupuk NPK 15:15:15  yang dicairkan (1,5-2 g/l air), dengan volume semprot 4000 llarutan/ha. Pupuk tersebut diberikan mulai umur 6 minggu sebelum tanam dan diulang tiap 10-15  hari sekali.\n\n
+
+<b>Penggunaan mulsa</b>\n
+Mulsa jerami setebal 5 cm (10 ton/ha) digunakan pada musim kemarau, yang diberikan dua minggu setelah tanam. Mulsa plastik hitam perak digunakan didataran tinggi pada musim kemarau atau musim hujan.\n\n
+
+<b>Pemeliharaan</b>\n
+Penyulaman dilakukan paling lambat 1–2 minggu setelah tanam untuk mengganti bibit yang mati atau sakit. Pengairan diberikan dengan cara dileb (digenangi) atau dengan disiram per lubang. Penggemburan tanah atau pendangiran dilakukan bersamaan dengan pemupukan kedua atau pemupukan susulan. Pemberian ajir dilakukan untuk menopang berdirinya tanaman. Tunas air yang tumbuh di bawah cabang utama sebaiknya dipangkas.\n\n
+
+<b>Pengendalian Organisme Pengganggu Tumbuhan (OPT) </b>\n
+OPT penting yang menyerang tanaman cabai antara lain kutukebul, trips, kutudaun, ulat grayak, ulat buah tomat, lalat buah, antraknos, penyakit layu, virus kuning, dsb. Pengendalian OPT dilakukan tergantung pada OPT yang menyerang. Beberapa cara yang dapat dilakukan, antara lain ialah : \n\n
+•	Penggunaan border 4–6 baris jagung\n
+•	Pemanfaatan musuh alami (predator: Menochilus sexmaculatus)\n
+•	Penggunaan perangkap (kuning, metyl eugenol)\n
+•	Penggunaan pestisida nabati\n
+•	Penggunaan pestisida kimia sesuai kebutuhan dengan dosis yang sesuai dengan rekomendasi.  Pengendalian dengan pestisida harus dilakukan dengan benar baik pemilihan jenis, dosis, volume semprot, cara aplikasi, interval maupun waktu aplikasinya \n\n
+
+<b>PANEN DAN PASCAPANEN </b>\n
+Cabai merah didataran rendah dapat dipanen pertama kali pada umur 70–75 hari setelah tanam sedangkan didataran tinggi pada umur 4–5 bulan, dengan interval panen 3–7 hari. Buah rusak yang disebabkan oleh lalat buah atau antraknos sebaiknya langsung dimusnahkan. Buah yang akan dijual segar sebaiknya dipanen matang. Buah yang dikirim untuk jarak jauh dipanen matang hijau. Buah yang akan dikeringkan dipanen setelah matang penuh.Sortasi dilakukan untuk memisahkan buah cabai merah yang sehat, bentuk normal dan baik dengan buah yang kualitasnya tidak baik. Pengemasan cabai untuk transportasi jarak jauh sebaiknya mengggunakan kemasan yang diberi lubang angin yang cukup atau menggunakan karung jala. Apabila hendak disimpan sebaiknya disimpan di tempat penyimpanan yang kering, sejuk dan cukup sirkulasi udara.\n\n\n
+
+<i>Penulis : Rini Rosliani</i>
+
+    </string>
+
+
+    <!--KONTEN TOMAT-->
+
+    <string name="konten_tomat"><b>PERSYARATAN TUMBUH</b>\n
+Tomat dapat ditanam di dataran tinggi maupun dataran rendah. Tanaman dapat tumbuh baik pada tanah yang gembur, sarang, subur, banyak mengandung humus dan pH tanah berkisar antara 5–6. suhu optimum untuk pertumbuhan tomat antara 21-240C. Waktu tanam diperhitungkan berdasarkan kemungkinan bahwa waktu berbunga dan berbuah jatuh di musim kemarau tetapi masih ada sedikit hujan.\n
+Varietas yang dianjurkan adalah Opal, Mirah, Jamrud, Permata, Martha, Idola dan sebagainya.  Kebutuhan benih sebanyak 100–150 g/hektar.\n\n
+<b>Persemaian</b>\n\n
+Sebelum disemai, benih direndam dahulu dalam air hangat (50°C) atau larutan Previcur N (1 ml/l) selama satu jam. Benih disebar merata pada bedengan persemaian dengan media berupa campuran tanah + pupuk kandang/kompos (1:1), lalu ditutup dengan daun pisang selama 2-3 hari.  Bedengan persemaian diberi atap dari kasa/plastik transparan.  Persemaian ditutup dengan kasa untuk menghindari serangan OPT.  Setelah berumur 7-8 hari, bibit dipindahkan ke dalam bumbungan daun pisang/pot plastik dengan media yang sama (tanah + pupuk kandang steril).  Penyiraman dilakukan setiap hari.  Bibit siap ditanam di lapangan setelah berumur 3 minggu. \n\n
+
+<b>Pengolahan Lahan</b>\n
+Dipilih lahan yang bukan bekas tanaman terung-terungan (Solanaceae). Sisa-sisa tanaman sebelumnya dikumpulkan lalu dikubur.  Jika pH tanah kurang dari 5,5, digunakan kapur pertanian atau Dolomit (1,5 ton/ha) dan diaplikasikan 3-4 minggu sebelum tanam. Kapur disebar rata, lalu dicangkul dan diaduk sedalam lapisan olah dengan merata sehingga pH tanah  mencapai ± 6.  Setelah itu dibuat guludan dengan lebar 60 cm atau bedengan dengan lebar 120 cm sampai 160 cm, sedangkan panjangnya disesuaikan dengan panjang lahan. Tinggi guludan/bedengan 40-50 cm pada musim penghujan dan 0-20 cm pada musim kemarau.Lubang tanam dibuat dengan jarak antar barisan 60-80 cm dan jarak dalam barisan 40-50 cm, sehingga diperoleh jarak tanam 60 cm x 50 cm atau 80 cm x 40 cm. Jumlah tanaman per hektar berkisar antara 25.000-40.000 tanaman.\n\n
+
+<b>Penggunaan Mulsa</b>\n
+Mulsa dapat berupa jerami setebal 5 cm (10 ton/ha) untuk musim kemarau (diberikan dua minggu setelah tanam tomat) atau berupa mulsa plastik hitam perak untuk musim kemarau dan musim hujan. Mulsa plastik hitam perak dipasang sebelum penanaman.\n\n
+
+<b>Pemupukan</b>\n
+Pupuk dasar diberikan 7 hari sebelum tanam terdiri atas : pupuk kandang 30 ton/ha,  NPK (15-15-15) 400 kg/ha, SP 36 153 kg/ha dan KCl 99 kg/ha. Pupuk susulan diberikan pada umur 30 hari setelah tanam yaitu masing-masing 65 kg Urea/ha dan 143 kg Za/ha. Pupuk kandang, setengah dosis pupuk Urea dan ZA, pupuk TSP dan KCl diberikan pada tiap lubang tanam, 2-7 hari sebelum tanam, sebagai pupuk dasar. Sisa pupuk Urea dan ZA diberikan pada saat tanaman berumur 4 minggu setelah tanam dengan cara ditugal 10 cm dikiri dan kanan tanaman tomat.\n\n
+
+<b>Penanaman</b>\n
+Penanaman bibit tomat dilakukan 3-4 minggu setelah dilakukan pengapuran.  Bibit tomat berumur 3-4 minggu dari persemaian ditanam dalam lubang tanam yang sudah disediakan.\n\n
+
+<b>Pemeliharaan</b>\n
+Tanaman tomat memerlukan perhatian khusus dalam pemeliharaannya. Pemeliharaan yang perlu dilakukan antara lain: penyiraman, penyulaman, pengendalian gulma, perompesan tunas–tunas liar dan pemberian ajir atau turus serta pengendalian hama penyakit. Penyiraman dilakukan setiap hari sampai tanaman tomat tumbuh normal, kemudian diulang sesuai kebutuhan. Penyulaman dilakukan terhadap tanaman yang sakit atau mati sampai tanaman berumur 2 minggu. Pengendalian gulma dilakukan bersamaan dengan penggemburan tanah dan pemberian pupuk susulan. Perompesan dilakukan pada tunas–tunas liar, yaitu tunas–tunas tidak produktif atau tidak menghasilkan bunga dan buah. Kegiatan ini dilakukan beberapa kali, sehingga dalam satu pohon hanya tertinggal satu sampai tiga cabang utama saja. Tanaman perlu diberi ajir untuk menopang tanaman agar tidak roboh. Ajir dapat dibuat dari bambu dengan panjang 1–1,5 m. Tanaman tomat diikatkan pada ajir tersebut secara longgar, sehingga tanaman tersebut cukup leluasa berkembang.\n\n
+
+<b>Pengendalian Organisme Pengganggu Tumbuhan (OPT) </b>\n
+OPT penting yang menyerang tanaman tomat antara lain kutu kebul, pengorok daun, ulat grayak, ulat buah tomat, penyakit busuk daun, penyakit layu, virus kuning, dsb. Ulat tanah dikumpulkan dan dikendalikan secara fisik. Apabila serangan ulat tanah tinggi, dilakukan penyemprotan dengan insektisida. Pengendalian OPT dilakukan tergantung pada OPT yang menyerang. Beberapa cara yang dapat dilakukan antara lain adalah: \n
+•	Untuk  menghindari serangan hama H. armigera, di sekeliling tanaman tomat ditanami dua baris tanaman tagetes (Tagetes erecta) atau jagung  sebagai  tanaman perangkap.\n
+•	Penggunaan border 4 – 6 baris jagung dan penggunaan musuh alami (predator Menochilus sexmaculatus) untuk mengendalikan Bemisia tabaci.\n
+•	Penggunaan perangkap kuning, untuk mengendalikan hama.\n
+•	Apabila diperlukan pestisida, gunakan pestisida yang aman sesuai kebutuhan dengan memperhatikan ketepatan pemilihan jenis, dosis, volume semprot, waktu, interval aplikasi dan cara aplikasi.\n\n
+
+<b>Panen dan Pascapanen</b>\n
+Panen pertama buah tomat dilakukan pada umur 2–3 bulan setelah tanam (tergantung varietas dan  kondisi tanaman). Panen dapat dilakukan antara 10–15 kali pemetikan buah dengan selang 2–3 hari sekali. Buah yang siap dipanen adalah yang sudah matang 30%. Total buah tomat yang dapat dipanen dari satu tanaman yang baik dapat mencapai 1–2 kg. Untuk pengangkutan ke tempat yang agak jauh, buah tomat dapat dikemas dalam peti–peti kayu, tiap peti berisi kurang lebih 30 kg buah tomat.\n\n\n
+<i>Penulis : Subhan</i>
+
+
+    </string>
+
+    <!--KONTEN DAUN BAWANG-->
+
+    <string name="konten_daunbawang">
+
+        <b>PENDAHULUAN</b>\n\n
+Bawang daun yang banyak dibudidayakan di Indonesia ada tiga macam,  yaitu:\n\n
+1.	Bawang prei atau leek (Allium porum L.), tidak berumbi dan mempunyai daun yang lebih lebar dibandingkan dengan bawang merah maupun bawang putih, pelepahnya panjang dan liat serta bagian dalam daun berbentuk pipih.\n
+2.	Kucai (Allium schoercoprasum), mempunyai daun kecil, panjang, rongga di dalam daun kecil dan berwarna hijau, serta berumbi kecil.\n
+3.	Bawang bakung atau bawang semprong (Allium fistulosum), berdaun bulat panjang dengan rongga dalam daun seperti pipa, kadang-kadang berumbi.\n\n
+
+Bawang daun yang termasuk dalam famili Liliaceae ini mempunyai aroma dan rasa yang khas, sehingga banyak digunakan untuk campuran masakan seperti soto, sop dan lainnya, dan juga banyak dibutuhkan oleh perusahan produsen mie instan.\n\n
+<b>PERSYARATAN TUMBUH</b>\n
+Bawang daun cocok tumbuh di dataran rendah maupun dataran tinggi dengan ketinggian 250-1500 m dpl, dengan jenis tanah Andosol (bekas lahan gunung berapi) atau tanah lempung berpasir. Curah hujan 150-200 mm/tahun dan  suhu harian 18-250 C. pH netral (6,5-7,5). \n\n
+
+<b>BUDIDAYA TANAMAN</b>\n
+<b>Benih</b>\n
+Benih bawang daun dapat berasal dari biji atau dari tunas/anakan. Tunas/anakan diperoleh dengan cara memisahkan anakan yang sehat dan bagus pertumbuhannya dari induknya. Benih bawang yang berasal dari biji mempunyai kelemahan, yaitu waktu panen yang lebih lama dibandingkan dengan benih yang berasal dari tunas anakan. \n\n
+
+<b>Persemaian</b>\n
+Bibit dari tunas/anakan dapat langsung ditanam di lapangan dengan terlebih dahulu mengurangi perakarannya untuk mengurangi penguapan. Benih dari biji harus disemai dahulu sebelum ditanam di lapangan. Media semai berupa campuran pupuk kandang dan tanah (1:1) yang telah digemburkan. Biji disebar secara merata kemudian ditutup dengan lapisan tanah tipis (dengan ketebalan 0,5-1 cm) dan disiram secukupnya. Bibit siap dipindahkan ke lapangan bila telah mempunyai 2-3 helai daun.\n\n
+
+<b>Penyiapan lahan </b>\n
+Lahan dicangkul dengan kedalamam 30-40 cm kemudian ditambahkan pupuk kandang. Hal ini dilakukan karena bawang daun menghendaki tanah yang gembur untuk pertumbuhannya. Kemudian siapkan bedengan dengan lebar 1-1,2 m dengan panjang sesuai dengan kondisi lahan. Parit antar bedengan dibuat dengan kedalaman 30 cm dan lebar 30 cm. Pembuatan parit sangat diperlukan agar drainase lancar karena bawang daun tidak menyukai adanya genangan air. Jarak tanam yang digunakan 20  cm x 25 cm, 25 cm x 25 cm atau 20 cm x 30 cm.\n\n
+
+<b>Pemupukkan</b>\n
+Pupuk dasar diberikan 7 hari sebelum tanam terdiri atas : pupuk kandang 10-15 ton/ha, Urea 100 kg/ha, SP 36 100 kg/ha dan KCl 75 kg/ha. Pupuk susulan diberikan pada umur 21 dan 42 hari setelah tanam yaitu masing-masing 50 kg Urea/ha. Pemupukan dilakukan dengan membuat larikan kurang lebih 5 cm di kiri dan kanan batang, dan menaburkan pupuk pada larikan tersebut dan menimbunnya kembali dengan tanah.\n\n
+
+
+<b>Penanaman </b>\n
+Penanaman dilakukan dengan cara membuat lubang tanam kecil dan bibit atau tunas anakan ditanam dengan posisi tegak lurus ditimbun dengan tanah kembali lalu disiram.\n\n
+
+<b>Pemeliharaan </b>\n
+
+Penyiangan terhadap gulma dapat dilakukan bersamaan dengan pendangiran untuk menggemburkan tanah yang mungkin mengalami pemadatan. Penimbunan pangkal batang. Secara bertahap diperlukan untuk mendapatkan warna putih pada batang semu bawang daun. Bawang daun berkualitas mempunyai batang semu yang berwarna putih dengan panjang kurang lebih 1/3 dari keseluruhan tanaman. Batang semu yang berwarna putih rasanya lebih enak sedangkan yang berwarna hijau lebih liat sehingga kurang disukai. \n\n
+
+Penyiraman harus dilakukan terutama bila bawang daun ditanam pada musim kemarau, sedangkan apabila ditanam di musim penghujan drainase harus diperhatikan dengan baik agar tidak terjadi genangan air di lahan.
+\n
+
+<b>Pengendalian Organisme Pengganggu Tumbuhan (OPT)</b>\n
+Hama yang banyak ditemukan di pertanaman bawang daun antara lain adalah Agrotis sp. (menyebabkan batang terpotong dan putus sehingga tanaman mati), Spodoptera exigua (ulat bawang yang memakan daun bawang daun), dan Thrips tabaci (menghisap cairan daun. Pengendalian ulat bawang secara mekanis dapat dilakukan dengan mengumpulkan kelompok telur dan memusnahkannya. Pengendalian secara kimiawi dapat menggunakan insektisida yang efektif seperti klorantraniprol. Penyakit yang menyerang tanaman bawang daun adalah Erwinia carotovora dengan gejala berupa busuk lunak, basah dan mengeluarkan bau yang tidak enak, selain itu juga serangan Alternaria porri (bercak ungu) yang menyerang daun. Pengendalian penyakit ini dapat dilakukan dengan pergiliran tanaman untuk memutus siklus hidup penyakit dan sanitasi kebun agar tidak lembab. Kondisi kebun yang kotor dan lembab menyebabkan penyakit dapat berkembang dengan cepat.\n\n
+
+<b>PANEN DAN PASCAPANEN</b>\n
+Tanaman bawang daun mulai dapat dipanen pada umur 2 bulan setelah tanam. Pemanenan dilakukan dengan mencabut seluruh bagian tanaman termasuk akar, buang akar dan daun yang busuk atau layu. Apabila bawang daun akan ditanam kembali pada pertanaman berikutnya, maka dilakukan pemilihan tunas anakan yang sehat dan bagus pertumbuhannya kemudian dipisahkan dari bagian tanaman yang hendak dijual. Sortasi sederhana dilakukan dengan mengelompokkan rumpun yang berdaun besar dan rumpun yang berdaun kecil. Pengikatan rumpun bawang daun dilakukan dengan lebih dahulu memberi alas pada bagian luar rumpun sehingga ikatan tidak langsung mengenai rumpun bawang daun. Bawang daun tidak dapat disimpan lama, sehingga sebaiknya segera dipasarkan agar mutunya masih terjaga saat sampai ke tangan konsumen.\n\n\n
+
+<i>Penulis : Uum Sumpena</i>
+
+
+    </string>
+
+    <!--KONTEN KUBIS-->
+
+    <string name="konten_kubis">
+<b>PENDAHULUAN</b>\n
+Kubis (Brassica oleracea L.) merupakan tanaman semusim atau dua musim yang termasuk dalam famili Brassicaceae.  Bentuk daunnya bulat telur sampai lonjong dan lebar seperti kipas.  Sistem perakaran kubis agak dangkal, akar tunggangnya segera bercabang dan memiliki banyak akar serabut. Kubis mengandung protein, Vitamin A, Vitamin C, Vitamin B1, Vitamin B2 dan Niacin. Kandungan protein pada kubis putih lebih rendah dibandingkan pada kubis bunga, tetapi kandungan vitamin A-nya lebih tinggi dibandingkan dengan kubis bunga.\n\n
+
+<b>PERSYARATAN TUMBUH</b>\n
+Kubis pada umumnya ditanam di daerah yang berhawa sejuk, pada ketinggian 800–2000 m dpl dan bertipe iklim basah, tetapi terdapat pula varietas yang dapat ditanam di dataran rendah atau 200 m dpl. Pertumbuhan optimum didapatkan pada tanah yang banyak mengandung humus, gembur, porus dan pH tanah antara 6–7. Waktu tanam yang baik pada awal musim hujan atau awal musim kemarau. Namun demikian kubis dapat ditanam sepanjang tahun dengan pemeliharaan lebih intensif.\n\n
+
+<b>1. Varietas </b>\n
+Varietas yang dianjurkan adalah Green Coronet, KK – Cros,  atau Gloria Osena.  Kebutuhan benih untuk satu hektar sebanyak 200-250 g.\n\n
+
+<b>2. Persemaian</b>\n
+Sebelum disemai, benih direndam dahulu dalam air hangat (50°C) atau larutan Previcur N (1 ml/l) selama satu jam.  Benih disebar merata pada bedengan atau tempat penyemaian dengan media campuran tanah dan pupuk kandang atau kompos (1:1), lalu ditutup dengan daun pisang selama 2-3 hari.  Bedengan persemaian diberi naungan atau atap dari kasa atau plastik transparan.  Setelah itu persemaian ditutup dengan kasa untuk menghindari serangan OPT.  Setelah berumur 7-8 hari, bibit dipindahkan ke dalam bumbunan daun pisang dengan media yang sama (tanah dan pupuk kandang steril).  Penyiraman dilakukan setiap hari.  Bibit siap ditanam di lapangan setelah berumur 3–4   minggu atau sudah memiliki 4-5 daun.\n\n
+<b>3. Pengolahan Lahan</b>\n
+Dipilih lahan yang bukan bekas tanaman kubis–kubisan. Sisa–sisa tanaman dikumpulkan lalu dikubur. Tanah dicangkul sampai gembur.  Dibuat lubang-lubang tanaman dengan jarak tanam 70 cm (antar barisan) x 50 cm (dalam barisan)  atau 60 cm x 40 cm.  Bila pH tanah kurang dari 5,5 dilakukan pengapuran menggunakan Kaptan/Dolomit dengan dosis 1,5 ton/ha yang diaplikasikan  3-4 minggu sebelum tanam atau bersamaan dengan pengolahan tanah.\n\n
+
+<b>4. Pemupukan</b>\n
+Pupuk dasar ialah berupa pupuk kandang dan pupuk buatan dengan dosis sebagai berikut :\n\n
+•	Pupuk kandang sapi 30 ton/ha atau pupuk kandang domba 20 ton/ha, atau kompos jerami padi sebanyak 18 ton/ha\n
+•	Pupuk buatan berupa Urea sebanyak 55 kg/ha, ZA 120 kg/ha,  SP-36 250 kg/ha dan KCl 200 kg/ha.\n\n
+
+Pupuk dasar tersebut diberikan 7 hari sebelum tanam.  Pupuk susulan ialah pupuk Urea sebanyak 55 kg/ ha dan ZA 120 kg/ha diberikan pada umur 4 minggu setelah tanam.\n\n
+
+<b>5. Pemeliharaan Tanaman</b>\n
+Penyiraman dilakukan tiap hari sampai kubis tumbuh normal (lilir), kemudian diulang sesuai kebutuhan. Bila ada tanaman yang mati, segera disulam dan penyulaman dihentikan setelah tanaman berumur 10–15 hari. Penyiangan dan pendangiran dilakukan bersamaan dengan waktu pemupukan pertama dan kedua. \n\n
+
+<b>6. Pengendalian Organisme Pengganggu Tumbuhan (OPT)</b> \n
+OPT penting yang menyerang tanaman kubis antara lain ialah ulat daun kubis, ulat krop kubis, penyalut bengkak akar, busuk hitam, busuk lunak, bercak daun, penyakit embun tepung, dsb. Pengendalian OPT dilakukan tergantung pada OPT yang menyerang. Beberapa cara yang dapat dilakukan antara lain ialah : \n\n
+•	Bila terdapat serangan penyakit bengkak akar pada tanaman muda,  tanaman dicabut dan dimusnahkan\n
+•	Pemanfaatan musuh alami (parasitoid Diadegma semiclausum)\n
+•	Tumpangsari kubis– tomat\n
+•	Penggunaan pestisida kimia sesuai kebutuhan dengan dosis yang sesuai dengan rekomendasi\n
+•	Penggunaan pestisida tersebut harus dilakukan dengan benar baik pemilihan jenis, dosis, volume semprot, cara aplikasi, interval dan waktu aplikasinya.\n
+
+<b>PANEN DAN PASCAPANEN</b>\n
+Kubis dapat dipanen setelah kropnya besar, penuh dan padat. Bila pemanenan terlambat krop akan pecah dan kadang–kadang busuk. Panen dengan dilakukan dengan memotong krop dengan sebagian batang serta disertakan 4–5 lembar daun luar, agar krop tidak mudah rusak. Produksi kubis dapat mencapai 15–40 ton/ha.\n
+
+
+    </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_farming_notes">Farming Notes</string>
+
+</resources>
+
+
