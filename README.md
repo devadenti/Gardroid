@@ -7,21 +7,21 @@ Gardroid was made to fulfill my final project assignment for the Mobile Programm
 ## Features
 
 #### Home
-<img src="https://i.ibb.co/KbrYsC5/1-home.jpg" width="400" alt="1-home"/>
+<img src="https://i.ibb.co/KbrYsC5/1-home.jpg" width="500" alt="1-home"/>
 
 #### Budidaya
 
-<img src="https://i.ibb.co/tCbhBng/2-budidaya.jpg" width="400" alt="2-budidaya"/>
+<img src="https://i.ibb.co/tCbhBng/2-budidaya.jpg" width="600" alt="2-budidaya"/>
 
 #### Tanya Pakar
-<img src="https://i.ibb.co/D9y4T7j/3-tanya-pakar.jpg" width="400" alt="3-tanya-pakar" />
+<img src="https://i.ibb.co/D9y4T7j/3-tanya-pakar.jpg" width="800" alt="3-tanya-pakar" />
 
 #### Info Cuaca
-<img src="https://i.ibb.co/H2GWVYF/4-infocuaca.jpg" width="400" alt="4-infocuaca" />
+<img src="https://i.ibb.co/H2GWVYF/4-infocuaca.jpg" width="900" alt="4-infocuaca" />
 
 #### Farming Notes
 
-<img src="https://i.ibb.co/DD0KLX1/5-notes.jpg" width="400" alt="5-notes"  /><br><br>
+<img src="https://i.ibb.co/DD0KLX1/5-notes.jpg" width="1000" alt="5-notes"  /><br><br>
 <img src="https://i.ibb.co/bL3m0fY/6-notes.jpg" width="400" alt="6-notes" />
 
 
